@@ -104,9 +104,9 @@ class SyncDataController extends Controller
                         'inv_igst'          => $row->inv_igst,
                         'inv_grandtotal'    => $row->inv_grandtotal,
                         // custom fields
-                        'company_code'      => 'KREBZ1234',
+                        'company_code'      => 'RGHBOW1234',
                         'company_local_ip'  => '190.92.174.183',
-                        'product_code'      => (($row->acc_type == 1) ? 'SELF APPLY' : 'HIRE AGENT'),
+                        'product_code'      => (($row->acc_type == 1) ? 'SELFAPPLY' : 'HIRELOAN'),
                     ];
                 });
             
