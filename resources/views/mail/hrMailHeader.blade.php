@@ -414,7 +414,7 @@
                                                                                             <a target="_blank"
                                                                                                 href="https://rightborrow.com/"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: underline; color: #000f26; font-size: 14px;">
-                                                                                            <img src="https://rightborrow.com/front/images/logo/logo.png"
+                                                                                            <img src="https://rightborrow.com/public/front/images/logo/logo.png"
                                                                                                 alt="rightborrow"
                                                                                                 style="display: block; border: 0; outline: 0; text-decoration: none; -ms-interpolation-mode: bicubic;"
                                                                                                 width="190"
@@ -583,8 +583,8 @@
                                                                                                 Mobile:
                                                                                                 <a target="_blank"
                                                                                                     style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                    href="tel:09429214352">
-                                                                                                +91-94292-14352
+                                                                                                    href="tel:09371827272">
+                                                                                                +91-93718-27272
                                                                                                 </a>
                                                                                                 | Email:
                                                                                                 <a href="mailto:info@rightborrow.com"

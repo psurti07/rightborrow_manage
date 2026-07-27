@@ -62,7 +62,7 @@
                                                                                             <a target="_blank"
                                                                                                 href="https://rightborrow.com/"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: underline; color: #000f26; font-size: 14px;">
-                                                                                            <img src="https://rightborrow.com/front/images/logo/logo.png"
+                                                                                            <img src="https://rightborrow.com/public/front/images/logo/logo.png"
                                                                                                 alt="rightborrow"
                                                                                                 style="display: block; border: 0; outline: 0; text-decoration: none; -ms-interpolation-mode: bicubic;"
                                                                                                 width="190"
@@ -158,7 +158,7 @@
                                                             style="padding: 0; margin: 0; padding-top: 10px; padding-bottom: 10px;">
                                                             <table cellpadding="0" cellspacing="0" class="es-left"
                                                                 align="left"
-                                                                style="mso-table-lspace: 0;mso-table-rspace: 0;border-collapse: collapse;border-spacing: 0;float: left;background-color: #E9F2FB;border: 1px solid #0a8b4b;  border-radius: 12px; display: block;">
+                                                                style="mso-table-lspace: 0;mso-table-rspace: 0;border-collapse: collapse;border-spacing: 0;float: left;background-color: #E9F2FB;border: 1px solid #1b4577;  border-radius: 12px; display: block;">
                                                                 <tbody>
                                                                     <tr>
                                                                         <td class="es-m-p20b" align="left"
@@ -169,7 +169,7 @@
                                                                             <hr>
                                                                             <table cellpadding="0" cellspacing="0"
                                                                                 width="100%" bgcolor="#ffffff"
-                                                                                style="mso-table-lspace: 0;mso-table-rspace: 0;border-collapse: separate;border-spacing: 0; border-radius: 15px;/* border: 1px solid #0a8b4b; */ background-color: transparent;"
+                                                                                style="mso-table-lspace: 0;mso-table-rspace: 0;border-collapse: separate;border-spacing: 0; border-radius: 15px;/* border: 1px solid #1b4577; */ background-color: transparent;"
                                                                                 role="presentation">
                                                                                 <tbody>
                                                                                     <tr>
@@ -391,7 +391,7 @@
                                                                                                 Mobile:
                                                                                                 <a target="_blank"
                                                                                                     style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                    href="tel:09429214352">
+                                                                                                    href="tel:09371827272">
                                                                                                 {{ str_ireplace(' ','-',env('COMPANY_MOBILE')) }}
                                                                                                 </a>
                                                                                                 | Email:
