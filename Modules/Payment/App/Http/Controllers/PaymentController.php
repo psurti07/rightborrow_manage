@@ -19,6 +19,12 @@ class PaymentController extends Controller
         $mainTable = 'user_registrations';
         
         switch($routeTable){
+            case 'razorpay-log':
+                $table = 'razorpayentry';
+                $table2 = 'cardoffer';
+                $column = 'txstatus';
+                $column2 = 'referenceid';
+                break;
             case 'phonepe-log':
                 $table = 'phonepe_entry';
                 $table2 = 'cardoffer';

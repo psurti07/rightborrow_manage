@@ -20,12 +20,12 @@
                             <label>Sender Id's</label>
                             <div class="form-check-size rtl-input">
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio1" type="radio" name="senderid" value="#" checked="">
-                                    <label class="form-check-label" for="inlineRadio1">#</label>
+                                    <input class="form-check-input me-2" id="inlineRadio1" type="radio" name="senderid" value="RGTBRW" checked="">
+                                    <label class="form-check-label" for="inlineRadio1">RGTBRW</label>
                                 </div>
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="#">
-                                    <label class="form-check-label" for="inlineRadio2">#</label>
+                                    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="RGTBRW">
+                                    <label class="form-check-label" for="inlineRadio2">RGTBRW</label>
                                 </div>
                             </div>
                         </div>

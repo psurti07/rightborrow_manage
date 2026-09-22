@@ -21,7 +21,7 @@
 <div class="container-fluid">
     <div class="row">
         <h4 class="text-center mt-2 mb-5">OTP Statistics</h4>
-        <div class="col-lg-4 col-md-4 col-12">
+        {{-- <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="otpSACard">
                 <div class="card widget-1">
                     <div class="card-body">
@@ -33,7 +33,7 @@
                     </div>
                 </div>
             </a>
-        </div>
+        </div> --}}
         <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="otpLACard">
                 <div class="card widget-1">
@@ -51,7 +51,7 @@
     </div>
     <div class="row mt-5">
         <h4 class="text-center mt-2 mb-5">Whatsapp Remarketing Statistics</h4>
-        <div class="col-lg-4 col-md-4 col-12">
+        {{-- <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="whatsappSA">
                 <div class="card widget-1">
                     <div class="card-body">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
             </a>
-        </div>
+        </div> --}}
         <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="whatsappLA">
                 <div class="card widget-1">
@@ -81,7 +81,7 @@
     </div>
     <div class="row mt-5">
         <h4 class="text-center mt-2 mb-5">SMS Remarketing Statistics</h4>
-        <div class="col-lg-4 col-md-4 col-12">
+        {{-- <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="remarketingSA">
                 <div class="card widget-1">
                     <div class="card-body">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </a>
-        </div>
+        </div> --}}
         <div class="col-lg-4 col-md-4 col-12">
             <a href="javascript:;" id="remarketingLA">
                 <div class="card widget-1">

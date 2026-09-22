@@ -9,9 +9,9 @@ Route::group([
     'as' => 'manage.',
     'middleware' => ['auth','PreventBackHistory']
 ], function () {
-    Route::get('/selfapply/customers', [CustomerController::class, 'users'])->name('selfapply.users');
-    Route::get('/selfapply/users-details/{userId}', [CustomerController::class, 'usersDetails'])->name('selfapply.customer.details');
-    Route::post('/selfapply/users-details/update', [CustomerController::class, 'usersDetailsUpdate'])->name('selfapply.customers.update');
+    // Route::get('/selfapply/customers', [CustomerController::class, 'users'])->name('selfapply.users');
+    // Route::get('/selfapply/users-details/{userId}', [CustomerController::class, 'usersDetails'])->name('selfapply.customer.details');
+    // Route::post('/selfapply/users-details/update', [CustomerController::class, 'usersDetailsUpdate'])->name('selfapply.customers.update');
     Route::get('/selfapply/users-invoice/{userId}/{cardId}', [CustomerController::class, 'generateInvoice'])->name('selfapply.customers.invoice');
     Route::post('/selfapply/users/update-password', [CustomerController::class, 'updatePassword'])->name('selfapply.customers.update.password');
     Route::post('/selfapply/user/assign-agent', [CustomerController::class,'assignAgent'])->name('selfapply.customers.assign.agent');
