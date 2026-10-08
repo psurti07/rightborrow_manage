@@ -1,5 +1,7 @@
 <script type="text/javascript">
     var ajaxUrls = {
+        'manage.razorpaylog': '{{ route("manage.razorpaylog") }}',
+        'manage.cashfreelog': '{{ route("manage.cashfreelog") }}',
         'manage.paymentlog': '{{ route("manage.paymentlog") }}',
         'manage.subpaisalog': '{{ route("manage.subpaisalog") }}',
         'manage.cipherpaylog': '{{ route("manage.cipherpaylog") }}',
