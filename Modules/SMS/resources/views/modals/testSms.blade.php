@@ -23,10 +23,10 @@
                                     <input class="form-check-input me-2" id="inlineRadio1" type="radio" name="senderid" value="RGTBRW" checked="">
                                     <label class="form-check-label" for="inlineRadio1">RGTBRW</label>
                                 </div>
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="RGTBRW">
-                                    <label class="form-check-label" for="inlineRadio2">RGTBRW</label>
-                                </div>
+                                <!--<div class="form-check form-check-inline">-->
+                                <!--    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="RGTBRW">-->
+                                <!--    <label class="form-check-label" for="inlineRadio2">RGTBRW</label>-->
+                                <!--</div>-->
                             </div>
                         </div>
                         <div class="form-group col-md-12 mb-3">
